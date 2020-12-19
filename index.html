@@ -7,7 +7,12 @@
 		src="https://unpkg.com/aframe-particle-system-component@1.0.x/dist/aframe-particle-system-component.min.js"></script>
 	<script src="https://cdn.rawgit.com/matthewbryancurtis/aframe-star-system-component/db4f1030/index.js"></script>
 	<script>
-		const name = prompt("What is your name?")
+		let name = prompt("What is your name?")
+
+		if (name === null) {
+			name = "You Muppet!!"
+		}
+
 			AFRAME.registerComponent('ribbon', {
 				init: function () {
 					let x = 0, y = 0;
