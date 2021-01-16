@@ -14,7 +14,7 @@ Present 2 - Aaron Clifford - (https://poly.google.com/view/fTQnwgjpcuv)
 I wanted to create virtual Christmas cards for friends, so I decided to put my A-Frame skills to the test and make a VR scene! This version requires the user to input their name when the page loads.
 
 ## Tech/Framework
-This uses A-Frame, a framework that is used to create web VR scenes. This was created inside a HTML file. This project also uses JavaScript find the name in the URL and output it on the banner to replace the word "everyone".
+This uses A-Frame, a framework that is used to create web VR scenes. This was created inside a HTML file. This project also uses JavaScript to get the name of the user via the prompt and puts it on the banner.
 
 ## Installation
 - This project is really easy to install if you wish to do so:
