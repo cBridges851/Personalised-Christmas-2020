@@ -22,7 +22,7 @@ This uses A-Frame, a framework that is used to create web VR scenes. This was cr
 - Navigate to the files you wish to view. The HTML file where the A-Frame code is in the root folder.
 
 ## How To Use
-- If you don't wish to download this onto your computer, you can simply view it here: https://cbridges851.github.io/Christmas-2020-Parameters/
+- If you don't wish to download this onto your computer, you can simply view it here: https://cbridges851.github.io/Personalised-Christmas-2020/
 - If you do have this on your computer, you can open index.html in your text editor and open it on a live server.
 - When the page loads, input your name and press enter!
 
